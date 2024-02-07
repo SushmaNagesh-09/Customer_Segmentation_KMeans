@@ -3,8 +3,8 @@
 ## This project aims to find the most profitable customer groups within the entire pool of customers to achieve more effective customer marketing.
 
 Environment and Tools Used:
-Language: Python
-Libraries: Pandas, Numpy, Matplotlib, ScikitLearn, & Seaborn.
+1. Language: Python
+2. Libraries: Pandas, Numpy, Matplotlib, ScikitLearn, & Seaborn.
 
 Approach to solve Customer Segmentation problem:
   1. Creating a Business Case
@@ -14,7 +14,7 @@ Approach to solve Customer Segmentation problem:
   5. Choosing optimal hyperparameters
   6. Visualization and Interpretation
 
-What is Customer Segmentation?
+**What is Customer Segmentation?**
   customer segmentation is dividing a company's customers into groups that reflect similarity among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment to maximize the value of each customer to the business. The process requires a thought-out strategy understanding of how to manage and group your customers and which data you will use.
 
 Advantages of Customer Segmentation
@@ -24,7 +24,7 @@ Advantages of Customer Segmentation
   4. Acquisition & Retention
   5. Increases Revenue and ROI
 
-Why use Machine Learning?
+**Why use Machine Learning?**
   Customer Segmentation was previously a challenging and time-consuming task that demanded hours of manually poring over different tables and querying the data in hopes of finding ways to group customers, but thanks to machine learning it finds statistical regularities in data. Machine learning models can process customer data and discover recurring patterns across various features.
 
 **K - Means Algorithm**
